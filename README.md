@@ -2,6 +2,9 @@
 # COS 201 - Week 3 Practical Submission
 
 ## Student Information
+Student Name: Okparaeze Chinedum Jude 
+matric Number: 25/17283
+programme: Computer science 
 Course: COS 201 - Computer Programming I
 Week: 3
 Topic: Variables, Data Types, Expressions and Input/Output
